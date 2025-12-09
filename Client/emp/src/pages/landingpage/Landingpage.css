@@ -1,0 +1,31 @@
+.containerlandingpage
+{
+    background-color: black;
+    display: flex;
+}
+.landingpageheadingh2
+{
+    color: rgb(225, 149, 6);
+}
+.heading{
+ align-items: center;
+ justify-content: center;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.containerlandingpage
+{
+    display: flex;
+}
+.contentlandingpage
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%;
+    margin-top: -30%;
+}
+.landingpageheadingh1
+{
+    color: rgb(255, 255, 255);
+    margin-left: -27%;
+}

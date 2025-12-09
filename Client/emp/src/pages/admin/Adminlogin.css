@@ -1,0 +1,49 @@
+.admincontainer
+{
+  background-color: rgb(29, 132, 113);
+  height: 680px;
+  width: 100%;
+  display: flex;
+}
+.adminhomeleft
+{
+   width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+.adminhomeright
+{
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.adminloginbox
+{
+  height: 350px;
+  width: 353px;
+  background-color: rgb(99, 127, 127);
+  border-radius: 12px;
+  align-items: center;
+  justify-content: center;
+}
+.headingh2homepage
+{
+  margin-left: 62px;
+  margin-top: 34px;
+}
+.singnuplink
+{
+  margin-top: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.registrationBox
+{
+  margin-top: 30px;
+  height: 140px;
+  width: 285px;
+  margin-left: 36px;
+}

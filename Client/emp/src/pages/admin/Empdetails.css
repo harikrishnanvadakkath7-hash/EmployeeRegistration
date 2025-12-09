@@ -1,0 +1,53 @@
+.containerempdata {
+    background-color: rgb(29, 132, 113);
+    height: 680px;
+    width: 100%;
+}
+.employee-table {
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 100%;
+}
+.employee-table th,
+.employee-table td {
+  border: 2px solid black;
+  padding: 8px;
+  text-align: left;
+}
+.notificationhead
+{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height:62px;
+}
+.notificationcontent
+{
+    display: flex;
+}
+.notificationh2
+{
+    color: white;
+}
+.employeelistheading
+{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height:62px;
+}
+.contentpage
+{
+  display: flex;
+}
+.contentright
+{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.headingemplist
+{
+  color: white;
+}

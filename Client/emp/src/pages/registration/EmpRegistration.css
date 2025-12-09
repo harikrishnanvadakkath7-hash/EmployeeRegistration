@@ -1,0 +1,32 @@
+.regpage
+{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cancelbtnreg
+{
+    margin-top: 5px;
+}
+.createbtnreg
+{
+    margin-top: 5px;
+}
+.errorpara
+{
+    color: red;
+}
+.containertregistration
+{
+  background-color: rgb(29, 132, 113);
+  height: 995px;
+  width: 100%;
+  display: flex;
+}
+.row
+{
+    height: 400px;
+    width: 300px;
+}
+

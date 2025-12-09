@@ -1,0 +1,45 @@
+.containeruserwelcome {
+    background-color: rgb(29, 132, 113);
+    display: flex;
+}
+
+.userwelcomeheadingh2 {
+    color: rgb(225, 149, 6);
+}
+
+.heading {
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+.containerlandingpage {
+    display: flex;
+}
+
+.userwelcomerightside {
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.userwelcomeleftside {
+    width: 50%;
+}
+
+.userwelcomeheadingh1 {
+    color: rgb(255, 255, 255);
+}
+
+.welcomepara {
+    color: cornsilk;
+}
+.landingimg
+{
+    margin-left: 80px;
+}
+.createaccLink
+{
+    font-size:17px;
+    color: rgb(0, 0, 0);
+}

@@ -1,0 +1,52 @@
+.notificationpage {
+    background-color: rgb(29, 132, 113);
+    height: 680px;
+    width: 100%;
+}
+.notification
+{
+    width: 300px;
+    height: 20px;
+    border-radius: 1px;
+    border-color: black;
+}
+.notificationbox
+{
+    width: 400px;
+    height: 30px;
+    color: black;
+}
+.leftdashboardnotification
+{
+    width: 230px;
+    height: 617px;
+    background-color: rgb(53 104 95 / 19%);
+}
+.adminnotification2
+{
+    width: 100%;
+}
+.notificationcard
+{
+    width: 30px;
+}
+.headingnotification
+{
+    width: 100%;
+}
+.notificationhead
+{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height:62px;
+}
+
+.notificationcontent
+{
+    display: flex;
+}
+.notificationh2
+{
+    color: white;
+}
